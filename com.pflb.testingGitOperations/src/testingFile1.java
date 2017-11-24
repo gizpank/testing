@@ -4,4 +4,5 @@ public class testingFile1 {
     String number3;
     String number4;
     int numb06;
+    int numb07;
 }
